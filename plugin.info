@@ -1,0 +1,10 @@
+[Plugin]
+Name = Version Checker
+Version = 1.0
+License = MIT
+URL = https://github.com/austincasteel/versionchecker/
+Description = Lets Naomi check what version you are using
+
+[Author]
+Name = Austin Casteel
+URL = https://github.com/austincasteel/
