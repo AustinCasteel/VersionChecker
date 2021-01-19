@@ -3,7 +3,7 @@ import json
 from naomi import plugin
 
 
-class DadJokes(plugin.SpeechHandlerPlugin):
+class VersionChecker(plugin.SpeechHandlerPlugin):
     def intents(self):
         return {
             'VersionIntent': {
